@@ -8,4 +8,17 @@ private:
 	string nama;
 	float nilai;
 
+public:
+	mahasiswa(int pid, string pNama, float pNilai) :id(pid), nama(pNama), nilai(pNilai) {
+
+	}
+	mahasiswa() {
+		cout << "id = " << id << endl;
+		cout << "Nama = " << nama << endl;
+		cout << "Milai = " << nilai << endl;
+		
+
+	}
+		
 };
+
