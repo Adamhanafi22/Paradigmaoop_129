@@ -54,4 +54,7 @@ void dokter::cetakpasien() {
 		cout << a->nama << "\n";
 	}
 	cout << endl;
+	
 }
+int 
+
