@@ -17,7 +17,8 @@ public:
 	~ibu() {
 		cout << "ibu \"" << nama << "\" tidak ada\n";
 	}
-	 
+	void tambahkanAnak(anak*);
+	void cetakAnak();
 };
 #endif // !IBU_H
 
