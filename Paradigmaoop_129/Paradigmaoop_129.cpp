@@ -15,7 +15,7 @@ public:
 	~mahasiswa() {
 		cout << "id = " << id << endl;
 		cout << "Nama = " << nama << endl;
-		cout << "Milai = " << nilai << endl;
+		cout << "Nilai = " << nilai << endl;
 		
 
 	}
