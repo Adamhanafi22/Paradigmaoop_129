@@ -2,9 +2,9 @@
 #include <string>
 using namespace std;
 
-class mahasoswa {
+class mahasiswa {
 private:
-	const int id;
+	const int id; 
 	string nama;
 	float nilai;
 
